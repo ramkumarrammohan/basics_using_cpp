@@ -1,2 +1,2 @@
 # basics_using_cpp
-Implement basics using cpp and lang specific keywords
+Implementation of basics using cpp and lang specific keywords
